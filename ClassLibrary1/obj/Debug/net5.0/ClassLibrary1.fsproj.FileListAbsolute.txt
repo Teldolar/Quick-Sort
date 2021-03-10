@@ -1,0 +1,8 @@
+C:\Users\artur\RiderProjects\Quick Sort\ClassLibrary1\bin\Debug\net5.0\ClassLibrary1.deps.json
+C:\Users\artur\RiderProjects\Quick Sort\ClassLibrary1\bin\Debug\net5.0\ClassLibrary1.dll
+C:\Users\artur\RiderProjects\Quick Sort\ClassLibrary1\bin\Debug\net5.0\ClassLibrary1.pdb
+C:\Users\artur\RiderProjects\Quick Sort\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.fsprojAssemblyReference.cache
+C:\Users\artur\RiderProjects\Quick Sort\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Users\artur\RiderProjects\Quick Sort\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.AssemblyInfo.fs
+C:\Users\artur\RiderProjects\Quick Sort\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.dll
+C:\Users\artur\RiderProjects\Quick Sort\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.pdb

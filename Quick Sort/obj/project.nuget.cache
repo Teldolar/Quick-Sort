@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IUTEP3wK12RyPTw4pDqzISMdm48CLkExAv2Z29VfmJT/3pmf+srSg0Ri8Wn5o8EBgqG8rbZhlLtf8X73MSySrA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\artur\\RiderProjects\\Quick Sort\\Quick Sort\\Quick Sort.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\artur\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

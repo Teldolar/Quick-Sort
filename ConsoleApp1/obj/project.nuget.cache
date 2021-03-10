@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "athC+ObRJD4BqkocR+IeIjax9rsSo++vQV6CKFpZazQxfg+m0DrkwZkP2JlUMHMedB+w1UcLvVUWUtDDliQTWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\artur\\RiderProjects\\Quick Sort\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\artur\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
